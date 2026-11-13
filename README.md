@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Yogit Ahuja 👋
 
-<!--
-**yogitahuja2005-ops/yogitahuja2005-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Java Developer | Backend Development Enthusiast
 
-Here are some ideas to get you started:
+I'm an Engineering Student passionate about software development, problem-solving, and building backend applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack
+
+- **Primary Language:** Java
+- **Database:** MySQL, JDBC
+- **Build Tools:** Maven
+- **Tools:** Git, GitHub, IntelliJ IDEA
+- **Additional Languages:** C, C++
+
+### 🚀 Featured Projects
+
+**Campus Mystery**
+- Java-based campus project.
+- Focused on application logic and database integration.
+
+**Smart Matrix Multiplication**
+- Implementation of Classical, Strassen, Winograd and AlphaTensor algorithms.
+- Developed using C.
+
+### 🎯 Currently Working On
+
+- Strengthening Core Java.
+- Learning Spring Boot and REST APIs.
+- Practicing Data Structures and Algorithms.
+- Building backend development projects.
+
+### 🤝 Connect With Me
+
+- LinkedIn: [Yogit Ahuja](https://www.linkedin.com/in/yogit-ahuja-2376a9369/)
