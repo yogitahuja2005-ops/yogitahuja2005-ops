@@ -32,3 +32,4 @@ I'm an Engineering Student passionate about software development, problem-solvin
 ### 🤝 Connect With Me
 
 - LinkedIn: [Yogit Ahuja](https://www.linkedin.com/in/yogit-ahuja-2376a9369/)
+- Instagram: [Yogit Ahuja](https://www.instagram.com/yogitahujaofficial?srtk=NWIzYjQzNm92cDU4)
